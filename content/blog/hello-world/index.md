@@ -3,7 +3,7 @@ title: 'Learning to Code'
 date: '2019-01-02'
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post about my coding experience!
 
 I'm sure I'll write a lot more interesting things in the future.
 
