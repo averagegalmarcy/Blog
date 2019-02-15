@@ -3,7 +3,7 @@ title: 'About Me'
 date: '2019-01-03'
 ---
 
-I am a budding junior developer that has a passion for food, dogs, and napping! I created this blog to detail my experience as a complete newbie in the coding world.
+I am a budding JavaScript developer that has a passion for food, dogs, and napping! I created this blog to detail my experience as a complete newbie in the coding world.
 
 Some quick things about me!
 
@@ -14,3 +14,4 @@ Some quick things about me!
 > My favorite food is soup, pho specifically.
 > I am originally from Austin, TX. Keep Austin Weird!
 
+![alt text]()
