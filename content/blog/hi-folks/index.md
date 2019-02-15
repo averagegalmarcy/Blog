@@ -3,105 +3,25 @@ title: Why I Decided to Start Coding
 date: '2018-11-28T22:40:32.169Z'
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+A little bit about my background. I graduated with a BA in Political Science and even went through the Department Honors Program. Right after graduating, I landed a job a law firm that specialized in Marijuana Law, so that was really interesting. However, as I worked there, I was very keen on the work that I was doing nor the work that my attorneys were doing. If anything, law seemed to be all paper work and rules, with very little else. I know that there is much more to law, but I just couldn't see myself being happy in that profession. After leaving the firm after a year, I went into couple other jobs that were fine, but definitely not my "career" jobs. As fortune would have it, I met a mutual friend who happened to be a software developer that went through a code camp and even received a grant to attend that school. After poking around some code camps in Portland, teaching myself some code (basic HTML and CSS), and applying for the grant, I knew that this was something that I could see myself long term. So here were are!  
 
-## On deer horse aboard tritely yikes and much
+## Why a Code School?
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+I choose a code school because I already had a college degree and I knew that I didn't want to spend 4 more years pursuing a CS degree. That was a long of money and time and I just didn't have. So a code school was something that I gravitated towards naturally. How I choose my school was an amalgamation of many different factors. Here were a few:
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+- The cost of the program 
+- Location of the school
+- Curriculum
+- The application process
+- The instructors
+- General reputation
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+So after accessing all these factors, I finally landed on the one that I wanted. No code school is perfect, but it is really important to ask a ton of questions about the curriculum, graduation and retention rates, as well as the success of the students once they leave. I wasn't looking for a diploma mill, I wanted to learn a skill that would carry me through this next chapter of my life. Highly recommend doing your research and just asking tech companies around you what coding schools they would recommend.
 
-### Overlaid the jeepers uselessly much excluding
+## Job Security and Opportunities
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+We've all heard it. Tech is notorious for the money and the opportunities for growth. I am not going to sugar coat it, this was definitely a factor in why I am here. In my city, tech jobs are plenty, however, for people with mid-to-senior experience. Juniors are a dime a dozen, so getting the first job can be very hard. However, what I have come to really enjoy about this industry is fast paced things are and that there is always more you can learn and do. I don't think you could get bored with it very quickly.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+## Room for Growth
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+This factor has quickly become something that I experience more and more. I love to learn, always have, and being in this type of work allows you to always feel that you are continually growing your skills and abilities. You don't even have to be an official course or school to feel this way, the amount of information on the internet is insane. That access to information is your best friend!
