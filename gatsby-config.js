@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Marcy's Awesome Blog`,
     author: `Marcy Silverman`,
-    description: `A blog about my coding experiences`,
+    description: `A blog about my coding journey`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `createdbymarcy`,
     },
   },
   plugins: [
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo.jpg`,
       },
     },
     `gatsby-plugin-offline`,

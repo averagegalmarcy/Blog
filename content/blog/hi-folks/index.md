@@ -1,6 +1,6 @@
 ---
-title: New Beginnings
-date: '2015-05-28T22:40:32.169Z'
+title: Why I Decided to Start Coding
+date: '2018-11-28T22:40:32.169Z'
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
