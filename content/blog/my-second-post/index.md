@@ -1,6 +1,6 @@
 ---
-title: My Second Post!
-date: '2015-05-06T23:46:37.121Z'
+title: First Week of Code School!
+date: '2018-11-1:46:37.121Z'
 ---
 
 Wow! I love blogging so much already.

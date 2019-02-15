@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-date: '2018-10-31'
+date: '2018-10-25'
 ---
 
 I am a budding JavaScript developer that has a passion for food, dogs, and napping! I created this blog to detail my experience as a complete newbie in the coding world.
