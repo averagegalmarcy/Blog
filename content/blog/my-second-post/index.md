@@ -1,6 +1,6 @@
 ---
 title: First Week of Code School!
-date: '2018-11-1'
+date: '2018-11-01'
 ---
 
 Wow! The first week was rough.

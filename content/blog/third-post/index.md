@@ -1,6 +1,6 @@
 ---
 title: Second Week of Code School!
-date: '2018-11-9'
+date: '2018-11-09'
 ---
 
 ## Another hard week, but it's getting better.
