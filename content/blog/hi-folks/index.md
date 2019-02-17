@@ -1,6 +1,6 @@
 ---
 title: Why I Decided to Start Coding
-date: '2018-10-28T22:40:32.169Z'
+date: '2018-10-28'
 ---
 
 A little bit about my background. I graduated with a BA in Political Science and even went through the Department Honors Program. Right after graduating, I landed a job at a law firm that specialized in Marijuana Law, so that was really interesting. However, as I worked there, I wasn't very keen on the work that I was doing nor the work that my attorneys were doing. If anything, law seemed to be all paper work and rules, with very little else. I know that there is much more to law, but I just couldn't see myself being happy in that profession. After leaving the firm after a year, I went into couple other jobs that were fine, but definitely not my "career" jobs. As fortune would have it, I met a mutual friend who happened to be a software developer that went through a code camp and even received a grant to attend that school. After poking around some code camps in Portland, teaching myself some code (basic HTML and CSS), and applying for the grant, I knew that this was something that I could see myself long term. So here were are!  
