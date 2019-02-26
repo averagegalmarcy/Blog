@@ -1,5 +1,5 @@
 ---
-title: Sixth and Seven of Code School!
+title: Sixth and Seven Week of Code School!
 date: '2018-12-12'
 ---
 
