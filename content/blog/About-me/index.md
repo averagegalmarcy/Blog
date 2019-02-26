@@ -14,4 +14,4 @@ Some quick things about me!
 * My favorite food is soup, pho specifically.
 * I am originally from Austin, TX. Keep Austin Weird!
 
-![alt text](self.jpg);
+![alt text](self.jpg)
